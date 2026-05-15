@@ -1,0 +1,9 @@
+"hub_id","hub_name","zone","hub_type","capacity_score"
+"H01","North Exchange","north","Dispatch",82
+"H02","South Link","south","Dispatch",78
+"H03","East Dock","east","Warehouse",74
+"H04","West Gate","west","Dispatch",69
+"H05","Central Core","central","Control",88
+"H06","Airport Hub","airport","Dispatch",71
+"H07","Riverside Hub","riverside","Warehouse",66
+"H08","Midtown Relay","central","Charging",63
