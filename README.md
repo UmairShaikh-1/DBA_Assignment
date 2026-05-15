@@ -1,4 +1,4 @@
-# Database Analytics Assignment
+# Databases and Analytics Assignment
 This repository contains the analytical work for the NorthStar Urban Mobility and Logistics case study. It includes all code, cleaned datasets and JSON documents required to analyse operational performance, identify inefficiencies, and design a new data architecture.
 
 The project integrates SQL, R, Python, and MongoDB for processing and manipulating data.
@@ -93,4 +93,4 @@ These insights directly informed the recommendations in the final report.
 # Author
 Mohammad Umair  
 
-Module: Database Analytics
+Module: Databases and Analytics
